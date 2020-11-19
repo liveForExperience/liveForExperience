@@ -8,7 +8,8 @@
 **📫 How to reach me:**
 
 
-- [My Blog](http://139.224.210.77)
+- [Blog](http://139.224.210.77)
 - [Email](mailto:liveForExperience@126.com)
+- [LeetCode](https://leetcode-cn.com/u/liveforexperience/)
 
 Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button. If you like my projects.
