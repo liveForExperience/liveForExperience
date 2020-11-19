@@ -1,16 +1,13 @@
-### Hi there 👋
+#### Hi there 👋, I am [liveForExperience](https://github.com/liveForExperience)
 
-<!--
-**liveForExperience/liveForExperience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I am a rookie software development engineer. 
+> "There are no accidents."
+<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=liveForExperience&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" align="right">
 
-Here are some ideas to get you started:
+**📫 How to reach me:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- [My Blog](http://139.224.210.77)
+- [Email](mailto:liveForExperience@126.com)
+
+Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button. If you like my projects.
