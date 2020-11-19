@@ -1,6 +1,7 @@
 #### Hi there 👋, I am [liveForExperience](https://github.com/liveForExperience)
 
 > I am a rookie software development engineer. 
+
 > "There are no accidents."
 <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=liveForExperience&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" align="right">
 
