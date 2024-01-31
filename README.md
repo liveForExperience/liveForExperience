@@ -8,7 +8,6 @@
 **📫 How to reach me:**
 
 
-- [Blog](https://liveforexperience.gitee.io/live-for-experience)
 - [Email](mailto:liveForExperience@126.com)
 - [LeetCode](https://leetcode-cn.com/u/liveforexperience/)
 
